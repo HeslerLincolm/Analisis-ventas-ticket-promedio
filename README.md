@@ -14,7 +14,7 @@ El reporte permite navegar a través de diferentes dimensiones del negocio:
 - `📊 Analisis_evolutivo_ventas.pbix` — Archivo fuente con el modelo de datos y visualizaciones.
 - `🖼️ imágenes/` — Carpeta con capturas estáticas de las diferentes páginas del reporte.
 
-## 🎯 Objetivo del proyecto y habilidades Técnicas
+## 🎯 Objetivo del proyecto y habilidades técnicas
 Este proyecto fue creado para demostrar competencias avanzadas en el ciclo de vida de un proyecto de Business Intelligence:
 
 ### 1. Extracción y transformación (ETL)
